@@ -1,4 +1,8 @@
 /* Portfolio stylesheet name: portstyle.css */
+p {
+    color:rgb(141, 86, 179)
+}
+
 h1 {
-    color:indigo
+    color:rgb(82, 19, 128)
 }
