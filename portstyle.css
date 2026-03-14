@@ -1,8 +1,32 @@
 /* Portfolio stylesheet name: portstyle.css */
-p {
-    color:rgb(141, 86, 179)
+/* color palette: #f6f8f8, #7c94a6, #a1b4c6, #6e8ebd, #2967a5 */
+
+body {
+    background-color:#F6F2EF;
 }
 
 h1 {
-    color:rgb(82, 19, 128)
+    color:#F6F2EF;
+}
+
+p {
+    color:#F6F2EF;
+}
+
+.navcolor {
+    background-color:#1479F4;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    box-shadow: 0 3px 8px rgba(0,0,0,0.3);
+}
+
+.pad {
+    padding: 20px;
+}
+
+.banner-blue {
+    background-color: #1479F4;
+    padding: 20px;
+    color:#F6F2EF;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.3);
 }
