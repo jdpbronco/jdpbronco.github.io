@@ -2,12 +2,16 @@
 /* color palette: #F7F5F1, #918D7D, #A79DA7, #7C7DAC, #41385B */
 
 body {
-    background-color:#FFFFFF;
+    background-color:#e5e5e5;
 }
 
 h1 {
     color:#FFFFFF;
     text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
 }
 
 p {
@@ -32,7 +36,7 @@ p {
     padding: 20px;
     color:#41385B;
     /* border-radius: 10px; */
-    box-shadow: 0 3px 8px rgba(0,0,0,0.3);
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
 }
 
 .banner {
