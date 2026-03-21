@@ -14,9 +14,9 @@ h2 {
     text-decoration: underline;
 }
 
-p {
+/* p {
     color:#FFFFFF;
-}
+} */
 
 .navcolor {
     background-color: #14213D;
@@ -27,6 +27,11 @@ p {
 .pad {
     padding: 20px;
 }
+
+.mid-pad {
+    padding: 10px;
+}
+
 .small-pad {
     padding: 2px;
 }
@@ -62,6 +67,7 @@ p {
     color:#DAD7CD;
     min-height: 75px;
     text-align: center;
+    border-top: 1px solid rgba(252, 163, 17, 1.0);
 }
 
 .light-text {
