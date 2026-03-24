@@ -7,20 +7,30 @@ html {
 
 body {
     background-color:#e5e5e5;
+    
 }
 
 h1 {
     color:#FFFFFF;
-    text-align: center;
+    /* text-align: center; */
+    font-size: 70px;
 }
 
-h2 {
+.center-align {
+    align-items: center;
+}
+
+.right-text {
+    text-align: right;
+}
+
+h2, h4 {
     text-decoration: underline;
 }
 
-/* p {
-    color:#FFFFFF;
-} */
+p {
+    font-weight: 500;
+}
 
 .navcolor {
     background-color: #14213D;
@@ -165,5 +175,10 @@ h2 {
     text-align: center;
 }
 
-
+.image-frame {
+    border: 1px solid #FCA311;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+}
 
