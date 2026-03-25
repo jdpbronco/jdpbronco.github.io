@@ -1,6 +1,11 @@
 /* Portfolio stylesheet name: portstyle.css */
 /* color palette: #F7F5F1, #918D7D, #A79DA7, #7C7DAC, #41385B */
 
+html, body {
+    height: 100%;
+     margin: 0;
+}
+
 html {
     scroll-behavior: smooth;
 }
